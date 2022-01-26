@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "626695863127",
+    "firebase_url": "https://fluttermanageassetapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fluttermanageassetapp",
+    "storage_bucket": "fluttermanageassetapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626695863127:android:ccf07c3f828c1495f09c12",
+        "android_client_info": {
+          "package_name": "com.example.flutter_manageasset_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626695863127-vjekl8sk7bgo1uncbvnahagf1eisrrml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIZ1l2rGO-FI03AnTCgJQO_OoFtc4kDuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626695863127-vjekl8sk7bgo1uncbvnahagf1eisrrml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
